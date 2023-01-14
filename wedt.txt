@@ -1,0 +1,4 @@
+APIgateway: https://jxaci5l5b9.execute-api.ap-south-1.amazonaws.com/dev
+
+
+ARN: arn:aws:dynamodb:ap-south-1:357989166391:table/PowerOfMathDatabase2
